@@ -1,3 +1,12 @@
+User: The chart you've provided is very helpful, thank you. Here is another question. What does it mean by "a string literal?" Does it mean "any form of string?" For example, 
+
+var = "asdf"
+var = "12"
+var = 12.0
+
+Is it like the variable var is assigned a string literal except for the last assignment (float not a string literal)?
+
+
 Great question 👍 — “string literal” is one of those terms that sounds fancier than it is. Let’s break it down:
 
 ---
