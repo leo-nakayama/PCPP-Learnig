@@ -1,4 +1,4 @@
-User: The chart you've provided is very helpful, thank you. Here is another question. What does it mean by "a string literal?" Does it mean "any form of string?" For example, 
+User: What does it mean by "a string literal?" Does it mean "any form of string?" For example, 
 
 var = "asdf"
 var = "12"
